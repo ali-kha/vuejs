@@ -2,11 +2,7 @@
 CONSTANTS.ENDPOINT = {};
 
 CONSTANTS.PORT = process.env.PORT || "3001";
-CONSTANTS.ENDPOINT.MASTERDETAIL = "/masterdetail";
-
 CONSTANTS.ENDPOINT.LIST = "/list";
-
-CONSTANTS.ENDPOINT.GRID = "/grid";
 
 
 module.exports = CONSTANTS;

@@ -1,5 +1,5 @@
 {
-  "name": "vuejs",
+  "name": "vue28",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "express": "^4.16.4",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.27",
     "core-js": "^2.6.5",
     "vue": "^2.6.6",
     "vue-router": "^3.0.4"
